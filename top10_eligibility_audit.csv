@@ -1,0 +1,21 @@
+category,rank,player,cricsheet_name,verified_role,retired_excluded,franchise_retained_excluded,RR_excluded,unavailable_excluded,Pakistan_excluded,eligible_after_checks,role_source
+BATTER / WK-BATTER,1,Bhanu Pania,Bhanu Pania,BATTER,False,False,False,False,False,True,https://www.bcci.tv/players/08dc1a9a-9935-47b4-bb22-e9f0b3d0fc88/bhanu-pania/news
+BATTER / WK-BATTER,2,Ricky Bhui,RK Bhui,WICKETKEEPER_BATTER,False,False,False,False,False,True,https://documents.iplt20.com/bcci/documents/1765197869375_TATA%20IPL%202026%20-%20Auction%20List%20-%208.12.25.pdf
+BATTER / WK-BATTER,3,Chetan Bist,Chetan Bist,WICKETKEEPER_BATTER,False,False,False,False,False,True,https://www.cricbuzz.com/profiles/9666/chetan-bist-wk
+BATTER / WK-BATTER,4,Atharva Taide,Atharva Taide,BATTER,False,False,False,False,False,True,https://www.fancode.com/cricket/players/atharva-taide/14112
+BATTER / WK-BATTER,5,Shimron Hetmyer,SO Hetmyer,BATTER,False,False,False,False,False,True,https://www.icc-cricket.com/rankings/64861/shimron-hetmyer
+BATTER / WK-BATTER,6,Upendra Yadav,Upendra Yadav,WICKETKEEPER_BATTER,False,False,False,False,False,True,https://www.ipl.com/player/upendra-yadav
+BATTER / WK-BATTER,7,Shivam Chaudhary,Shivam Chaudhary,BATTER,False,False,False,False,False,True,https://www.bcci.tv/players/65c10d7d-c33d-49ef-b5a4-ca814ea8a7f8/shivam-chaudhary/news
+BATTER / WK-BATTER,8,Jason Roy,JJ Roy,BATTER,False,False,False,False,False,True,https://www.ecb.co.uk/england/men/players/1906/jason-roy
+BATTER / WK-BATTER,9,Nitish Rana,N Rana,BATTER,False,False,False,False,False,True,https://www.cricbuzz.com/profiles/9204/nitish-rana-c
+BATTER / WK-BATTER,10,Mayank Agarwal,MA Agarwal,BATTER,False,False,False,False,False,True,https://www.cricbuzz.com/profiles/2195/agarwal
+BOWLER,1,Chama Milind,CV Milind,BOWLER,False,False,False,False,False,True,https://www.cricbuzz.com/profiles/9281/c-milind
+BOWLER,2,Umran Malik,Umran Malik,BOWLER,False,False,False,False,False,True,https://www.cricbuzz.com/profiles/19027/umran-malik
+BOWLER,3,Shivam Mavi,Shivam Mavi,BOWLER,False,False,False,False,False,True,https://www.cricbuzz.com/profiles/12345/shivam-mavi
+BOWLER,4,Ajay Sarkar,Ajay Sarkar,BOWLER,False,False,False,False,False,True,https://www.bcci.tv/players/3219ef6d-5448-430c-81b0-391a5dbaaac2/ajay-sarkar/biography
+BOWLER,5,Riley Meredith,RP Meredith,BOWLER,False,False,False,False,False,True,https://www.icc-cricket.com/rankings/66871/riley-meredith
+BOWLER,6,Obed McCoy,OC McCoy,BOWLER,False,False,False,False,False,True,https://www.cricbuzz.com/profiles/11221/obed-mccoy
+BOWLER,7,Gerald Coetzee,G Coetzee,BOWLER,False,False,False,False,False,True,https://www.cricbuzz.com/profiles/13320/gerald-coetze
+BOWLER,8,Tushar Deshpande,TU Deshpande,BOWLER,False,False,False,False,False,True,https://www.cricbuzz.com/profiles/11307/tushar-deshpande
+BOWLER,9,Matheesha Pathirana,M Pathirana,BOWLER,False,False,False,False,False,True,https://www.cricbuzz.com/profiles/16458/pathirana
+BOWLER,10,Susheel Kumar,Susheel Kumar,BOWLER,False,False,False,False,False,True,https://www.bcci.tv/players/364eb4bf-d768-4a3b-9fbb-030f69cedd93/susheel/biography
