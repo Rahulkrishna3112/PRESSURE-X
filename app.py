@@ -5,7 +5,7 @@ import plotly.graph_objects as go
 import streamlit as st
 
 ROOT = Path(__file__).parent
-DATA = ROOT / "data"
+DATA = ROOT 
 
 st.set_page_config(page_title="PRESSURE-X | Cricket Analytics", page_icon="🏏", layout="wide")
 
